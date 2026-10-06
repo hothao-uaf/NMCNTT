@@ -1,5 +1,5 @@
-# NMCNTT
-## Giới thiệu bản thân
+# Giới thiệu bản thân
+## Thông tin
 - Em tên: Hồ Thu Thảo
 - MSSV: 2611130220
 - Khoa: Công nghệ thông tin
